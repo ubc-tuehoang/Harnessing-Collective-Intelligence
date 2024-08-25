@@ -1,0 +1,6 @@
+pdfplumber
+langchain
+langchain_core
+langchain_huggingface
+langchain_community
+faiss-cpu
