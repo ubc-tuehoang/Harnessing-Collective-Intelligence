@@ -1,9 +1,9 @@
 # Harnessing Collective Intelligence
 
 
-- Dare to dream
-- Ignite your inspiration and innovation
-- Strive for excellence
+- Dare to Dream
+- Inspire Bold Leadership
+- Embrace Diversity in Thought and Innovation
 - Explore together & unlock the world's knowledge
 
 ------------------------------
