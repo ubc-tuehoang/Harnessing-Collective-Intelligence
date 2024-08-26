@@ -29,3 +29,8 @@ Ultimately, the idea proposes that the future of technology lies in its ability 
 
 Keywords: Collective Intelligence, Vectors, VectorDB, Consciousness, Artificial Intelligence, RAG, ANN, Inclusivity, Machine Learning, Data Assimilation, Borg.
 
+--------------------
+
+## on Github Codespaces with 16-core
+
+![alt text](image-4.png)
